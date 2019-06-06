@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="mx_test" name="ros_wechat" type="wechat_ctrl.py" output="screen">
+  </node>
+</launch>
